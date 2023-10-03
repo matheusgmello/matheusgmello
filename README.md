@@ -1,6 +1,19 @@
-## Olá eu sou Matheus Gabriel
-<div align="center">
-  <a href="https://github.com/matheusgmello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgmello&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgmello&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>  
+## Hi Dev👀
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgmello/)](https://www.linkedin.com/in/matheusgmello/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusgmello1@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusgmello1@gmail.com)](mailto:nanda.matheusgmello1@gmail.com)
+
+<img align="right" alt="Code Boy Png" src="./example.png"  width="300px"/>
+
+## My name is Matheus Mello
+(React | Java | Spring Boot | Typescript | Node | PostgreSQL ) 💻
+
+- 🎓 Systems development Student
+- 🌐 Passionate about technology
+- 💡 I thrive on challenges
+
+<div align="left">
+  
+[![Matheus top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusgmello&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
