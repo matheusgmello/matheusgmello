@@ -8,7 +8,7 @@
 ## My name is Matheus Mello
 (React | Java | Spring Boot | Typescript | Node | PostgreSQL ) 💻
 
-- 🎓 Systems development Student
+- 🎓 Software Engineering student
 - 🌐 Passionate about technology
 - 💡 I thrive on challenges
 
