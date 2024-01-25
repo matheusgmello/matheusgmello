@@ -1,16 +1,22 @@
-# 💫 About Me:
-🔭 I'm currently working as a freelancer<br>🌱 I'm currently learning React<br>💬 Ask me about games and programming<br>⚡ Fun fact, I like cats.
+# 👋 Hello Friend!
 
+I'm Matheus Mello, a Freelance Developer from Brazil.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusgmello) 
+* 🔭 I have worked in a variety of businesses: marketplaces, business brokers, and page creation.
+* ❤️ I love to work and study software engineering.
+* 😴 I am lazy, so I try to automate everything I can.
+* 💬 I love talking about code, programming, and games
+* 😼 My cat is named Saci, in reference to Brazilian folklore.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=matheusgmello&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgmello&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusgmello)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/math7zw)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusgmello/)
 
----
+## ⚡ Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* **Software Engineering:** Node, Prisma, Java, Spring ,React, Next, REST, SQLModel.
+* **DevOps:** AWS CDK, CloudFormation, GCP, GitHub Actions, Docker.
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgmello&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
