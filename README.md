@@ -4,6 +4,7 @@ I'm Matheus Mello, a Freelance Developer from Brazil.
 
 * 🔭 I have worked in a variety of businesses: marketplaces, business brokers, and page creation.
 * ❤️ I love to work and study software engineering.
+* 📚 I am currently studying for a degree in computer science.
 * 😴 I am lazy, so I try to automate everything I can.
 * 💬 I love talking about code, programming, and games
 * 😼 My cat is named Saci, in reference to Brazilian folklore.
