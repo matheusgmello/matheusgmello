@@ -1,7 +1,5 @@
 # 👋 Hello Friend!!, My name is Matheus👾
 
-Fullstack developer from Brazil, currently working with Java
-
 * 💻 I’m currently pursuing a Bachelor’s degree in Computer Science.
 * 💬 I have proficiency in [English communication](https://cert.efset.org/zm4qaT).
 * 🤝 My communication and teamwork skills are strong.
