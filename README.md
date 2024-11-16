@@ -14,7 +14,7 @@ Fullstack developer from Brazil, currently working with Java
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusgmello/)
 
 ## ⚡ Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgresql,linux,windows,react,javascript,typescript,aws,docker,kafka,wordpress,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgresql,linux,windows,php,obsidian,react,aws,javascript,typescript,docker,kafka,wordpress)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgmello&hide_progress=true&theme=vue&exclude_repo=find-a-friend,websockets-polls,expert-notes&langs_count=20)
