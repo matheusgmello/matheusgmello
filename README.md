@@ -2,7 +2,7 @@
 <hr>
 
 * 💻 Software developer focus on backend.
-* 📕 Student at UFSM (Universidade Federal de Santa Maria).
+* 📕 Degree in internet systems at UFSM.
 * 💬 [C2 Advanced English Level](https://cert.efset.org/zm4qaT).
 * 🤝 Communication and teamwork are my strong points.
 
