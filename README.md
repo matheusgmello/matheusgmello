@@ -1,10 +1,11 @@
-<code>System.out.println("Hello, world!🌍")</code>
+<code>System.out.println("Hello, friend!😎🤙")</code>
 <hr>
 
-* 💻 Software developer focus on backend.
-* 📕 Degree in internet systems at UFSM.
+* 💻 Desenvolvedor de software com foco em backend.
+* 📕 Graduando em Sistemas para Internet na UFSM.
 * 💬 [C2 Advanced English Level](https://cert.efset.org/zm4qaT).
-* 🤝 Communication and teamwork are my strong points.
+* 🤝 Lido muito bem com a comunicação e o trabalho em equipe, que são meus pontos fortes.
+* 📚 Entusiasmo por inteligência artificial, segurança, infraestrutura e games.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,linux,php,react,aws,javascript,typescript,docker,kafka,wordpress)](https://skillicons.dev)
 
